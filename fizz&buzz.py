@@ -1,6 +1,5 @@
 asalBolenTut=[]
 
-
 def maxBul(x):
     max=x[0]
     for i in range(1,len(x),1):
